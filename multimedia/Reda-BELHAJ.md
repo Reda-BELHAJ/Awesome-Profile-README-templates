@@ -1,0 +1,30 @@
+<div align="center">
+  <img src="https://media.tenor.com/images/45bdae15041c9b8dfe4c486a98f560e9/tenor.gif" width = "150%" />
+</div>
+
+## Hello World!
+
+<br>
+
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+```text
+Python          ████████████████░░░░░░░░░   60.47 % 
+C               ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+JavaScript      ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Php             █░░░░░░░░░░░░░░░░░░░░░░░░   4.8 % 
+C#              █░░░░░░░░░░░░░░░░░░░░░░░░   3.7 %
+```
+<!--END_SECTION:waka-->
+
+
+
+<div align="center">
+
+<i>Follow me:</i><br>
+
+<a href="https://www.linkedin.com/in/reda-belhaj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.facebook.com/reda0belhaj/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/user/wai3dp8hmjyfrdnd1f120zyml" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+
+</div>
